@@ -33,4 +33,5 @@ If you type "Hello World!" during the logging session, the keystrokes will appea
 10. 2024-11-12 14:32:01,150 - l
 11. 2024-11-12 14:32:01,153 - d
 12. 2024-11-12 14:32:01,156 - !
+
 Each key press is logged with the exact key and the timestamp of when it was pressed.
