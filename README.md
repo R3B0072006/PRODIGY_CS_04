@@ -1,4 +1,5 @@
 # PRODIGY_CS_04
+Simple Keylogger
 ## Description
 In this task, we will create a simple Python program that logs keystrokes, recording each key pressed by the user and saving the data to a text file. The program will focus on capturing the keys that are pressed and storing them securely for later use. It is important to note that the use of keyloggers must be done ethically and with proper consent, as this type of software can have significant privacy implications.
 
